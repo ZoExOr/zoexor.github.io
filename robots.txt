@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://zoexor.github.io/sitemap.xml
