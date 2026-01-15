@@ -132,7 +132,7 @@
 
   ],
 "skills": {
-  "programmingLanguages": [
+  "Programming languages": [
     "Python",
     "C",
     "C++",
@@ -140,7 +140,7 @@
     "SQL",
     "LaTeX"
   ],
-  "technologiesAndFrameworks": [
+  "Technologies and frameworks": [
     "Linux",
     "Git",
     "Docker",
@@ -149,7 +149,7 @@
     "Wireshark",
     "Unity"
   ],
-  "libraries": [
+  "Libraries": [
     "NumPy",
     "Matplotlib",
     "Pandas",
@@ -157,9 +157,10 @@
     "PyTorch",
     "OpenXR",
     "libFranka",
-    "panda-py"
+    "panda-py",
+    "ultralytics"
   ],
-  "hardwareAndPlatforms": [
+  "Hardware and platforms": [
     "Meta Quest 3 (VR controllers)",
     "Franka Emika Panda",
     "SpaceMouse"
