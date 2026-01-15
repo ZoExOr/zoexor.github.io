@@ -7,7 +7,7 @@ first_name: Zoe
 middle_name: (Yijun)
 last_name: Zhou
 contact_note: >
-  best way to reach me out is by simply sending an email ;))
+  Welcome to my personal website! Feel free to reach out through email zhouyijun75 [at] gmail.com ;))
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   > put some nice things...
   
@@ -87,7 +87,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
+blog_name:   # blog_name will be displayed in your blog page
 blog_description: a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
@@ -123,13 +123,6 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-  - name: Google Blog
-    posts:
-      - url: https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/
-        published_date: 2024-05-14
 
 # -----------------------------------------------------------------------------
 # Newsletter
@@ -355,7 +348,7 @@ imagemagick:
     - 800
     - 1400
   input_directories:
-    - assets/img/cv_full.jpg
+    - assets/img/prof_pic.jpg
   input_formats:
     - ".jpg"
     - ".jpeg"
