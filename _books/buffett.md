@@ -6,6 +6,8 @@ cover: assets/img/book_covers/buffett.jpg
 status: Finished
 ---
 
+[Finished at Jan, 2026]
+
 I finished this book on a high-speed train. To be honest, a lot of the finance-heavy details were outside my comfort zone, and I don’t pretend to fully grasp every technical argument. What stayed with me, though, was the way the book framed decision-making -- especially in the final chapters -- which felt surprisingly relevant to where I am right now.
 
 Stripped of the financial jargon, Buffett’s approach to investing is really about making the best possible decisions with imperfect information. The edge doesn’t come from clever tricks, but from a disciplined way of thinking.

@@ -7,9 +7,9 @@ first_name: Zoe
 middle_name: (Yijun)
 last_name: Zhou
 contact_note: >
-  Welcome to my personal website! Feel free to reach out through email zhouyijun75 [at] gmail.com ;))
+  Feel free to reach out through email <span style="background-color: #f2f2f2; padding: 2px 6px; border-radius: 4px;">zhouyijun75 [at] gmail.com </span>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  > put some nice things...
+  “Forever green is the tree of life.”
   
 
 footer_text: >
