@@ -385,7 +385,17 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "books-inside-the-investments-of-warren-buffett-twenty-cases",
+      },{id: "art-平静胖鸽子-wood-pigeon-stickers",
+          title: '平静胖鸽子 (Wood Pigeon Stickers)',
+          description: "stickers",
+          section: "Art",handler: () => {
+              window.location.href = "/art/pigeon/";
+            },},{id: "art-daily-life-of-fat-yellow",
+          title: 'Daily life of fat Yellow',
+          description: "stickers",
+          section: "Art",handler: () => {
+              window.location.href = "/art/yellow/";
+            },},{id: "books-inside-the-investments-of-warren-buffett-twenty-cases",
           title: 'Inside the Investments of Warren Buffett: Twenty Cases',
           description: "",
           section: "Books",handler: () => {
