@@ -7,7 +7,7 @@ importance: 1
 ---
 
 > 16 hand-drawn GIF stickers.   
-> Created during Feb - March 2022. Released at 22 Mar 2022. 
+> Created during Feb - Mar 2022. Released at 22 Mar 2022. 
 > Available at <a href="https://w.url.cn/s/ANFHOf4">wechat stickers gallery</a>.
 
 <style>
@@ -53,5 +53,6 @@ importance: 1
 </div>
 
 
-Thank you my fluffy babi boi!
+> **Thank you my fluffy babi boi!**
+
 <img src="/assets/img/yellow/IMG_4244.jpg" alt="Yellow">
