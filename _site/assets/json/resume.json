@@ -1,0 +1,136 @@
+{
+  "basics": {
+    "name": "Zoe Zhou",
+    "label": "3rd-year Computer Science student, GPA 8.8/10 (top 10%), graduate in 2026",
+    "email": "zhouyijun75 [at] gmail.com"
+
+  },
+
+    "education": [
+      {
+        "institution": "Vrije Universiteit Amsterdam",
+        "location": "Amsterdam, Netherlands",
+        "url": "https://vu.nl/",
+        "area": "Computer Science",
+        "studyType": "BSc",
+        "startDate": "2023-09-01",
+        "endDate": "2026-06-01",
+        "score": "8.8",
+        "courses":""
+      }
+    ],
+
+  "work": [
+
+      {
+      "name": "Automata and Complexity & Probability and Statistics",
+      "position": "Teaching Assistant",
+      "url": "",
+      "startDate": "2026-02-01",
+      "endDate": "NOW",
+      "highlights": [
+        "Led weekly tutorials, assisted with exercises, and supported students during course sessions."
+      ]
+    },
+
+    {
+      "name": "Social AI Lab, Computer Science Department, Vrije Universiteit Amsterdam",
+      "position": "Research Intern",
+      "url": "https://socialai.nl/",
+      "startDate": "2025-06-01",
+      "endDate": "2025-12-01",
+      "highlights": [
+        "Deployed a VR controller-based teleoperation interface on a physical robotic arm; tested and iteratively refined on hardware.",
+        "Designed and conducted a human–robot interaction user study (N=25); collected and analyzed workload and usability metrics.",
+        "Collaborated with researchers and lab engineers; scoped and resolved technical problems; fully documented and open-sourced the system."
+      ]
+    },
+    
+    {
+      "name": "ImCare Biotech, Doylestown, PA, USA",
+      "position": "Research Intern",
+      "url": "https://www.imcarebiotech.com/",
+      "startDate": "2024-07-01",
+      "endDate": "2024-09-30",
+      "highlights": [
+        "Improved missing data handling via KNN imputation, increasing predictive sensitivity by 12%.",
+        "Applied SMOTE for data augmentation and developed a logistic regression model in PyTorch, achieving an AUC-ROC of 0.87.",
+        "Enabled an estimated 680 additional early-stage detections per 100,000 screenings."
+      ]
+    }
+
+
+  ],
+
+  "awards": [
+    {
+      "title": "1st Place in 4th Annual Hack4her (Track: Ethical AI Agents for Public Services)",
+      "date": "2025-06-15",
+      "awarder": "Hack4her",
+      "summary": ["Won first place at a national women-in-tech hackathon for students. Designed an ethical AI system to automate childcare allowance approval processes."]
+    }
+  ],
+
+"publications": [
+  {
+    "name": "Static Is Not Enough: A Comparative Study of VR and SpaceMouse in Static and Dynamic Teleoperation Tasks",
+    "publisher": "Proceedings of HRI'26 (Late-Breaking Reports Track)",
+    "releaseDate": "2025-01-12",
+    "url":"" ,
+    "summary": "This work is based on a summer research internship conducted at the Social AI Lab. I am the first author. Accepted to the HRI 2026 Late-Breaking Reports track in January 2026."
+  }
+  ],
+
+  "skills": [
+  {
+    "name": "Programming Languages",
+    "level": "",
+    "keywords": [
+      "Python",
+      "C",
+      "C++",
+      "Java",
+      "SQL",
+      "LaTeX"
+    ]
+  },
+  {
+    "name": "Technologies and Frameworks",
+    "level": "",
+    "keywords": [
+      "Linux",
+      "Git",
+      "Docker",
+      "Conda",
+      "CUDA",
+      "Wireshark",
+      "Unity"
+    ]
+  },
+  {
+    "name": "Libraries",
+    "level": "",
+    "keywords": [
+      "NumPy",
+      "Matplotlib",
+      "Pandas",
+      "Scikit-learn",
+      "PyTorch",
+      "OpenXR",
+      "libFranka",
+      "panda-py",
+      "ultralytics"
+    ]
+  },
+  {
+    "name": "Hardware and Platforms",
+    "level": "",
+    "keywords": [
+      "Meta Quest 3 (VR controllers)",
+      "Franka Emika Panda",
+      "SpaceMouse"
+    ]
+  }
+]
+
+}
