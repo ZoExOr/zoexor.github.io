@@ -393,9 +393,9 @@ ninja.data = [{
             },},{id: "news-my-work-based-on-my-summer-research-at-social-ai-group-was-officially-accepted-by-hri-26-late-breaking-reports-track-thank-you-muhan-and-kim-for-your-support-and-guidance-throughout-the-research-sparkles-smile",
           title: 'My work based on my summer research at @ Social AI Group was...',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-vr2arm",
+          title: 'VR2ARM',
+          description: "my summer research project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
