@@ -10,6 +10,26 @@ importance: 1
 > Created during Feb - March 2022. Released at 22 Mar 2022. 
 > Available at <a href="https://w.url.cn/s/ANFHOf4">wechat stickers gallery</a>.
 
+<style>
+  /* GIF stickers */
+  img[src$=".GIF"],
+  img[src$=".gif"] {
+    width: 240px;
+    height: 240px;
+    object-fit: contain;
+  }
+
+  /* JPG images */
+  img[src$=".JPG"],
+  img[src$=".jpg"],
+  img[src$=".JPEG"],
+  img[src$=".jpeg"] {
+    width: 400px;
+    height: 400px;
+    object-fit: contain;
+  }
+</style>
+
 <div class="sticker-grid">
   <img src="/assets/img/yellow/IMG_0783.GIF" alt="Yellow sticker 1">
   <img src="/assets/img/yellow/IMG_0785.GIF" alt="Yellow sticker 2">
