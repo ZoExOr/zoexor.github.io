@@ -26,7 +26,7 @@ importance: 1
   img[src$=".jpeg"] {
     width: 400px;
     height: 400px;
-    object-fit: contain;
+        object-fit: contain;
   }
 </style>
 
