@@ -385,13 +385,13 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "art-平静胖鸽子-wood-pigeon-stickers",
-          title: '平静胖鸽子 (Wood Pigeon Stickers)',
+      },{id: "art-平静胖鸽子-peaceful-fat-pigeon",
+          title: '平静胖鸽子 (Peaceful fat pigeon)',
           description: "stickers",
           section: "Art",handler: () => {
               window.location.href = "/art/pigeon/";
-            },},{id: "art-daily-life-of-fat-yellow",
-          title: 'Daily life of fat Yellow',
+            },},{id: "art-肥肥黄的日常-daily-life-of-fat-yellow",
+          title: '肥肥黄的日常 (Daily life of fat Yellow)',
           description: "stickers",
           section: "Art",handler: () => {
               window.location.href = "/art/yellow/";
