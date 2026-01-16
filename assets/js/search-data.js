@@ -400,6 +400,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/buffett/";
+            },},{id: "books-a-mind-at-play-how-claude-shannon-invented-the-information-age",
+          title: 'A  Mind at Play: How Claude Shannon Invented the Information Age',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/shannon/";
             },},{id: "news-my-work-based-on-my-summer-research-at-social-ai-group-was-officially-accepted-by-hri-26-late-breaking-reports-track-thank-you-muhan-and-kim-for-your-support-and-guidance-throughout-the-research-sparkles-smile",
           title: 'My work based on my summer research at @ Social AI Group was...',
           description: "",
