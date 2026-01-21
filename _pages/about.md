@@ -26,7 +26,7 @@ latest_posts:
 
 
 
-Hi there! I am currently a 3rd-year BSc student in Computer Science at <a href='https://vu.nl/en/about-vu/more-about/rankings'>Vrije Universiteit Amsterdam</a>, with a GPA of 8.8/10 (top 10%, see <a href='https://vu.nl/en/about-vu/more-about/rankings'>Dutch grading system</a>), expected to graduate at 2026.
+Hi there! I am currently a 3rd-year BSc student in Computer Science at <a href='https://vu.nl/en/about-vu/more-about/rankings'>Vrije Universiteit Amsterdam</a>, with a GPA of 8.8/10 (top 10%, see <a href='https://www.studyinnl.org/dutch-education/dutch-grading-system'>Dutch grading system</a>), expected to graduate at 2026.
 
 I have a strong foundation in Computer Science and Mathematics. Probability theory and information theory shape how I naturally think about the world: not everything that arrives is information. Only what genuinely reduces uncertainty deserves attention. Learning, to me, is as much about filtering noise as it is about acquiring knowledge, and clarity often comes from deciding what to ignore.
 
