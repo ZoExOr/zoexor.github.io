@@ -6,4 +6,4 @@ related_posts: false
 ---
 
 My work based on my summer research at @ <a href='socialai.nl/'>Social AI Group</a> was officially accepted by <a href = 'https://humanrobotinteraction.org/2026/'>HRI'26</a> (Late-Breaking Reports track).
-Thank you  <a href = 'https://research.vu.nl/en/persons/muhan-hou/'>Muhan</a> and <a href = 'kimbaraka.com'>Kim</a> for your support and guidance throughout the research! :sparkles: :smile:
+Thank you  <a href = 'https://mh-hou.github.io'>Muhan</a> and <a href = 'https://www.kimbaraka.com'>Kim</a> for your support and guidance throughout the research! :sparkles: :smile:
