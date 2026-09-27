@@ -26,10 +26,10 @@ latest_posts:
 
 
 
-Hi there! I am currently a 3rd-year BSc student in Computer Science at <a href='https://vu.nl/en/about-vu/more-about/rankings'>Vrije Universiteit Amsterdam</a>, with a GPA of 8.8/10 (top 10%), expected to graduate at 2026.
+Hi there! I graduated with a BSc in Computer Science from <a href='https://vu.nl/en/about-vu/more-about/rankings'>Vrije Universiteit Amsterdam</a> in July 2026, with a GPA of 8.8/10 (cum laude). During 2026–2027, I remain registered at VU while continuing to work on research and explore opportunities in AI and robotics.
 
-I view learning as a dynamic balance between exploration and exploitation. I tend to seek opportunities broadly, then commit deeply once I find a high-impact direction. This mindset led me to independently initiate a project at the <a href='https://socialai.nl/'>Social AI Lab</a>, where I served as first author for a study published in <a href='https://humanrobotinteraction.org/2026/'>HRI'26 (LBR track)</a> -- a milestone that allowed me to bridge the gap between human-centric design and technical implementation.
+I proactively joined VU’s <a href='https://socialai.nl/'>Social AI Lab</a>, where my work led to a first-author <a href='https://humanrobotinteraction.org/2026/'>HRI’26 LBR paper</a>, and I later continued in the group for my bachelor thesis. Long term, I’m interested in building agents that learn to correct robots, inspired by how humans naturally do it. I’m still figuring out exactly what that should look like, but that’s the direction I want to pursue.
 
-Outside my studies, I am a big fan of birds. I enjoy both birdwatching and drawing them, and I have even made two bird sticker series (see <a href='https://zoexor.github.io/art/'>my drawings</a>).
+Outside my studies and work, I am a big fan of birds. I enjoy birdwatching and drawing them, and I have made two bird sticker series (see <a href='https://zoexor.github.io/art/'>my drawings</a>).
 
-I value responsibility, clear communication, and working with people who are driven by proactivity and curiosity. If you’re interested in collaborating or exchanging ideas, feel free to reach out.
+I value responsibility, clear communication, proactivity, and curiosity. If you’re interested in collaborating or exchanging ideas, feel free to reach out.
