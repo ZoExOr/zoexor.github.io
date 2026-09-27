@@ -8,7 +8,6 @@ nav_order: 8
 collection: art
 ---
 
-> In my free time, I enjoy creating small personal projects.
 
 # Sticker sets
 I’ve made several sticker sets inspired by my love for birds.  

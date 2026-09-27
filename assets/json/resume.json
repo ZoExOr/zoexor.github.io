@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Zoe Zhou",
-    "label": "3rd-year Computer Science student, GPA 8.8/10 (top 10%), graduate in 2026",
+    "label": "BSc CS Graduate & TA  @VU Amsterdam | Robotics, AI",
     "email": "zhouyijun75 [at] gmail.com"
 
   },
@@ -10,127 +10,74 @@
       {
         "institution": "Vrije Universiteit Amsterdam",
         "location": "Amsterdam, Netherlands",
-        "url": "https://vu.nl/",
+        "url": "https://vu.nl/en/about-vu/more-about/rankings",
         "area": "Computer Science",
         "studyType": "BSc",
         "startDate": "2023-09-01",
-        "endDate": "2026-06-01",
-        "score": "8.8",
+        "endDate": "2026-07-15",
+        "score": "GPA: 8.8; Thesis: 9.0",
         "courses":""
       }
     ],
 
   "work": [
+      {
+        "name": "Faculty of Science, Vrije Universiteit Amsterdam",
+        "position": "Teaching Assistant (Onsite)",
+        "url": "",
+        "startDate": "2026-09-01",
+        "endDate": "NOW",
+        "highlights": [
+          "Selected to teach tutorials for 5 mathematics courses across the CS & AI programs during the 2026–2027 academic year, including Calculus 1, Statistical Methods for CS, Linear Algebra and Calculus for AI, Probability and Statistics for AI, and Linear Algebra for CS."
+        ]
+      },
 
       {
-      "name": "Automata and Complexity & Probability and Statistics",
-      "position": "Teaching Assistant",
+      "name": "Faculty of Science, Vrije Universiteit Amsterdam",
+      "position": "Teaching Assistant (Onsite)",
       "url": "",
       "startDate": "2026-02-01",
-      "endDate": "NOW",
+      "endDate": "2026-04-01",
       "highlights": [
-        "Led weekly tutorials, assisted with exercises, and supported students during course sessions."
+        "Teaching Automata and Complexity & Probability and Statistics during Spring 2026 semester."
       ]
     },
 
     {
       "name": "Social AI Lab, Computer Science Department, Vrije Universiteit Amsterdam",
-      "position": "Research Intern",
+      "position": "Research Intern (Onsite)",
       "url": "https://socialai.nl/",
       "startDate": "2025-06-01",
       "endDate": "2025-12-01",
       "highlights": [
-        "Deployed a VR controller-based teleoperation interface on a physical robotic arm; tested and iteratively refined on hardware.",
-        "Designed and conducted a human–robot interaction user study (N=25); collected and analyzed workload and usability metrics.",
-        "Collaborated with researchers and lab engineers; scoped and resolved technical problems; fully documented and open-sourced the system."
+        "Built and evaluated a VR controller-based teleoperation interface for human–robot interaction research."
       ]
     },
     
     {
       "name": "ImCare Biotech, Doylestown, PA, USA",
-      "position": "Research Intern",
+      "position": "Data Engineer Intern (Remote)",
       "url": "https://www.imcarebiotech.com/",
       "startDate": "2024-07-01",
       "endDate": "2024-09-30",
       "highlights": [
-        "Improved missing data handling via KNN imputation, increasing predictive sensitivity by 12%.",
-        "Applied SMOTE for data augmentation and developed a logistic regression model in PyTorch, achieving an AUC-ROC of 0.87.",
-        "Enabled an estimated 680 additional early-stage detections per 100,000 screenings."
+        "Cleaned and prepared messy datasets, generated and augmented data, and contributed to improving model performance."
       ]
     }
 
 
   ],
 
-  "awards": [
+
+
+  "publications": [
     {
-      "title": "1st Place in 4th Annual Hack4her (Track: Ethical AI Agents for Public Services)",
-      "date": "2025-06-15",
-      "awarder": "Hack4her",
-      "summary": ["Won first place at a national women-in-tech hackathon for students. Designed an ethical AI system to automate childcare allowance approval processes."]
+      "name": "Static Is Not Enough: A Comparative Study of VR and SpaceMouse in Static and Dynamic Teleoperation Tasks",
+      "publisher": "HRI Companion '26: Companion Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction",
+      "releaseDate": "2025-01-12",
+      "url": "https://dl.acm.org/doi/10.1145/3776734.3794405",
+      "summary": "[Paper](https://dl.acm.org/doi/10.1145/3776734.3794405) · [Project Page](https://zoexor.github.io/vr2arm-page/) · [Video](https://youtu.be/w0SPAeWrJxI)"
     }
-  ],
-
-"publications": [
-  {
-    "name": "Static Is Not Enough: A Comparative Study of VR and SpaceMouse in Static and Dynamic Teleoperation Tasks",
-    "publisher": "Proceedings of HRI'26 (Late-Breaking Reports Track)",
-    "releaseDate": "2025-01-12",
-    "url":"https://arxiv.org/abs/2601.13042" ,
-    "summary": "This work is based on a summer research internship conducted at the Social AI Lab. I am the first author. Accepted to the HRI 2026 Late-Breaking Reports track in January 2026."
-  }
-  ],
-
-  "skills": [
-  {
-    "name": "Programming Languages",
-    "level": "",
-    "keywords": [
-      "Python",
-      "C",
-      "C++",
-      "Java",
-      "SQL",
-      "LaTeX"
-    ]
-  },
-  {
-    "name": "Technologies and Frameworks",
-    "level": "",
-    "keywords": [
-      "Linux",
-      "Git",
-      "Docker",
-      "Conda",
-      "CUDA",
-      "Wireshark",
-      "Unity"
-    ]
-  },
-  {
-    "name": "Libraries",
-    "level": "",
-    "keywords": [
-      "NumPy",
-      "Matplotlib",
-      "Pandas",
-      "Scikit-learn",
-      "PyTorch",
-      "OpenXR",
-      "libFranka",
-      "panda-py",
-      "ultralytics"
-    ]
-  },
-  {
-    "name": "Hardware and Platforms",
-    "level": "",
-    "keywords": [
-      "Meta Quest 3 (VR controllers)",
-      "Franka Emika Panda",
-      "SpaceMouse"
-    ]
-  }
-]
+  ]
 
 }
