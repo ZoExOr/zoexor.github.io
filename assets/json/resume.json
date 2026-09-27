@@ -5,20 +5,19 @@
     "email": "zhouyijun75 [at] gmail.com"
 
   },
-
-    "education": [
-      {
-        "institution": "Vrije Universiteit Amsterdam",
-        "location": "Amsterdam, Netherlands",
-        "url": "https://vu.nl/en/about-vu/more-about/rankings",
-        "area": "Computer Science",
-        "studyType": "BSc",
-        "startDate": "2023-09-01",
-        "endDate": "2026-07-15",
-        "score": "GPA: 8.8; Thesis: 9.0",
-        "courses":""
-      }
-    ],
+  "education": [
+    {
+      "institution": "Vrije Universiteit Amsterdam",
+      "location": "Amsterdam, Netherlands",
+      "url": "https://vu.nl/en/about-vu/more-about/rankings",
+      "area": "Computer Science",
+      "studyType": "BSc",
+      "startDate": "2023-09-01",
+      "endDate": "2026-07-15",
+      "score": "GPA: 8.8/10 (cum laude; 30 ECTS in Mathematics) · Thesis: 9.0/10",
+      "courses": ""
+    }
+  ],
 
   "work": [
       {
