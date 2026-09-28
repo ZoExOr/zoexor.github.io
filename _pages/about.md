@@ -26,7 +26,7 @@ latest_posts:
 
 
 
-Hi there! I graduated (✨cum laude✨) with a BSc in Computer Science from <a href='https://vu.nl/en/about-vu/more-about/rankings'>Vrije Universiteit Amsterdam</a> in July 2026, with a final GPA of 8.8/10 and a 9.0/10 for my bachelor thesis.
+Hi there! I am a BSc Computer Science graduate (✨cum laude✨) from <a href="https://vu.nl/en/about-vu/more-about/rankings">Vrije Universiteit Amsterdam</a>. I completed my degree in July 2026 with a final GPA of 8.8/10 and a 9.0/10 for my bachelor thesis.
 
 I proactively joined VU’s <a href='https://socialai.nl/'>Social AI Lab</a>, where my work led to a first-author <a href='https://humanrobotinteraction.org/2026/'>HRI’26 LBR paper</a>, and I later continued in the group for my bachelor thesis. Long term, I’m interested in building agents that learn to correct robots, inspired by how humans naturally do it. I’m still figuring out exactly what that should look like, but that’s the direction I want to pursue.
 
