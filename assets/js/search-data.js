@@ -403,7 +403,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-vr2arm",
           title: 'VR2ARM',
-          description: "my summer research project",
+          description: "My summer research project, where I built and evaluated a VR controller-based teleoperation interface for human–robot interaction research.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
